@@ -1,18 +1,152 @@
-# 💫 About Me:
-Hi there! 👋 I'm Shubham Dodiya. > I am a Bachelor of Science in IT student who is passionate about bridging the gap between design and engineering. I love building out high-performance web applications using the MERN stack while ensuring the user interface is beautiful, intuitive, and engaging. Currently, I'm diving deep into 3D web design and AI automation to stay on the cutting edge of what the web can do
+<div align="center">
 
+# 👋 Hey, I'm **Shubham Dodiya**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-dodiya-3a5a9030b/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shubhamdodiya1053@gmail.com) 
+### 💻 Full-Stack Developer • 🎨 UI/UX Enthusiast • 🖥️ UI Web Developer • 🤖 AI Explorer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shubhamdodiya2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shubhamdodiya2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdodiya2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=000000&center=true&vCenter=true&width=700&height=45&lines=Building+Modern+Web+Experiences+%F0%9F%9A%80;Turning+Ideas+Into+Real+Products+%F0%9F%92%A1;Design+%2B+Engineering+%2B+AI+%F0%9F%A4%96;Always+Learning+%E2%80%A2+Always+Building+%E2%9A%A1"
+    alt="Typing Animation"
+  />
+</a>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=90&section=header"
+  width="100%"
+/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shubhamdodiya2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧑‍💻 About Me
+
+I'm **Shubham**, a B.Sc. IT student who loves turning ideas into **beautiful, functional and real-world digital experiences**.
+
+I enjoy working where **design meets engineering** — creating interfaces that look good, feel intuitive, and work reliably behind the scenes.
+
+```text
+💡 Imagine  →  🎨 Design  →  💻 Build  →  ⚙️ Improve  →  🚀 Ship
+```
+
+Currently exploring **AI Automation, modern web technologies, scalable applications and creative ways to combine design with code.**
+
+---
+
+#  My Tech Arsenal
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,cs,php&theme=dark" width="430"/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,angular,tailwind,nodejs,express,django,dotnet&theme=dark" width="540"/>
+
+### 🗄️ Database & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" width="185"/>
+
+### 🎨 Design & CMS
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,wordpress&theme=dark" width="245"/>
+
+<br>
+
+`Elementor`
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" width="185"/>
+
+</div>
+
+---
+
+# 🎯 Currently Exploring
+
+<div align="center">
+
+`🤖 AI Automation` • `🐍 Django` • `🌐 Advanced Web Development`
+
+`🧠 DSA` • `🏗️ System Design` • `⚡ Production Applications`
+
+</div>
+
+---
+
+#  GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhamdodiya2&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&include_all_commits=true&count_private=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Shubhamdodiya2&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamdodiya2&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" height="155"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+width="90%"
+style="max-width:850px;"
+/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shubham-dodiya-3a5a9030b/">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="38"/>
+</a>
+
+  
+
+<a href="https://shubhamdodiya.netlify.app/">
+<img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="38"/>
+</a>
+
+  
+
+<a href="mailto:shubhamdodiya1053@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="38"/>
+</a>
+
+<br><br>
+
+**Portfolio** • **LinkedIn** • **Email**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ **Build. Learn. Create. Repeat.**
+
+<img src="https://komarev.com/ghpvc/?username=Shubhamdodiya2&label=PROFILE+VIEWS&color=000000&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=75&section=footer" width="100%"/>
+
+</div>
